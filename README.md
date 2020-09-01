@@ -2,11 +2,17 @@ CKEditor 5 classic editor build
 ========================================
 
 ## Personal notes
-You can modify the files in src folder. After modifying, execute:
+1- You can modify the files in src folder. After modifying, execute:
 
 $ yarn run build
 
 And the updates will be built and you can run sample in sample folder to test.
+
+
+2- If you want to publish package updates please follow this link bellow:
+https://www.npmjs.cn/getting-started/publishing-npm-packages/
+
+
 
 
 [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-build-classic.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-build-classic)
